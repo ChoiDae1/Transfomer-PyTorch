@@ -6,4 +6,4 @@ Implementing **Transfomer(NIPS 2017)** by PyTorch(in colab) and applying to Tran
 - Task: Translation (German -> English)
 - Model: Transfomer
 - Code: [link](https://github.com/ChoiDae1/Transfomer-PyTorch/blob/main/Implementing_Transfomer.ipynb)
-- Review: [link](https://science886.tistory.com/21)
+- Paper Review: [link](https://science886.tistory.com/21)
